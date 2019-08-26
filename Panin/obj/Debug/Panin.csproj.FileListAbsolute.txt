@@ -1,0 +1,6 @@
+C:\Users\PC\Downloads\PANIN\PaninDai-IchiLife\Panin\bin\Debug\Panin.exe.config
+C:\Users\PC\Downloads\PANIN\PaninDai-IchiLife\Panin\bin\Debug\Panin.exe
+C:\Users\PC\Downloads\PANIN\PaninDai-IchiLife\Panin\bin\Debug\Panin.pdb
+C:\Users\PC\Downloads\PANIN\PaninDai-IchiLife\Panin\obj\Debug\Panin.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\PANIN\PaninDai-IchiLife\Panin\obj\Debug\Panin.exe
+C:\Users\PC\Downloads\PANIN\PaninDai-IchiLife\Panin\obj\Debug\Panin.pdb
